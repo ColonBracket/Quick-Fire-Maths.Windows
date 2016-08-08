@@ -6,4 +6,6 @@
 # Please note:
 As of 18 July 2016, we are ending support for Quick Fire Maths for devices with <b>Microsoft Windows 7 or earlier OSes</b>. Quick Fire Maths (Version 2) will still be available for download on our GitHub repository. As a result, those with Microsoft Windows 7 or earlier will not receive updates on Quick Fire Maths later than Version 2. For those with <b>Windows 8.1 or newer OSes</b>, Quick Fire Maths can be downloaded and automatically updated to the latest version on the <b>Windows Store</b>. Sorry for any inconvenience caused.
 
+You will find that the version number for the Windows Store version is not linear to the ones for other platforms, as it is still in Beta development phase at the moment. Note that Version 2 for OS X is the equivalent of Version 1.2.1.0 on the Windows Store.
+
 In case you are having a bit of a dilemma with the naming, ColonBracket was originally named Delta Developers Team when it was founded, which is why you will notice that the older versions of our software still have the "Delta" logo on them.
